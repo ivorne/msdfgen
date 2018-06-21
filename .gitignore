@@ -12,3 +12,10 @@ output.png
 render.png
 out/
 build_xcode/
+
+# cmake
+CMakeFiles/
+Makefile
+cmake_install.cmake
+libmsdfgen.a
+msdfgen
